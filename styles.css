@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.newBtn {
+  font-weight: 200px;
+  height: 50px;
+  background-color: lightgreen;
+  border-radius: 50%;
+}
+
+.main_div {
+  padding: 0%;
+  height: 110vh;
+  /* padding: 100px; */
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.center_div {
+  border-radius: 10px;
+  margin: 10% 0 0 30%;
+  min-height: 300px;
+  width: 60%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.inputField {
+  height: 30px;
+  width: 65%;
+  margin-right: 10px;
+}
